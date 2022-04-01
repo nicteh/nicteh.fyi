@@ -1,16 +1,21 @@
-### Hi there 👋
+# Academic Template 
 
-<!--
-**nicteh/nicteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is meant for those academics who want a base template for their
+academic website. It is a Bootstrap template, so better refer the [documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/) for changing the style.
 
-Here are some ideas to get you started:
+This project is meant to directly clone in your servers' `public_html` folder, since it has all
+the dependencies installed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Basic changes:
+
+* Colors: css/custom.css
+* Structure: index.html
+* Pictures: img/
+
+## License
+
+MIT License. Publications sections uses
+[bib-publication-list](https://github.com/vkaravir/bib-publication-list)
+project for displaying a graph with all the publications.
+
+
